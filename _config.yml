@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 随写's blog
+      title: 随写's blog  —— 记录安全学习点滴
 
 description: blingblingbling
 author:
