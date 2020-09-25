@@ -5,25 +5,25 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: ifengling
-google_analytics: ifengling
-title: ifengling
+disqus: ifengling1
+google_analytics: ifengling2
+title: ifengling3
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: ifengling
+      title: ifengling4
 
-description: ifengling
+description: ifengling5
 author:
   name: 慢慢
   email: yiranhlf@gmail.com
-  github: ifengling
-  twitter: ifengling
-  pinterest: ifengling
-  linkedin: ifengling
+  github: ifengling6
+  twitter: ifengling7
+  pinterest: ifengling8
+  linkedin: ifengling9
   bio: 得之我幸，失之我命
  
 
